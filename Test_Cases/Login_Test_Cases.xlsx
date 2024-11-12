@@ -1,0 +1,13 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status
+TC01,Valid Login with correct credentials,1. Enter valid username 'standard_user'.
+2. Enter valid password 'secret_sauce'.
+3. Click on login button.,User should be logged in and redirected to the products page.,,Pending
+TC02,Invalid Login with incorrect username,1. Enter invalid username 'invalid_user'.
+2. Enter valid password 'secret_sauce'.
+3. Click on login button.,Error message should be displayed.,,Pending
+TC03,Invalid Login with incorrect password,1. Enter valid username 'standard_user'.
+2. Enter invalid password 'wrong_password'.
+3. Click on login button.,Error message should be displayed.,,Pending
+TC04,Login with empty username or password,1. Leave username field empty.
+2. Enter valid password 'secret_sauce'.
+3. Click on login button.,Error message should be displayed.,,Pending
