@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Automation_Framework\\Test_Layer\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A4F597-FCF2-4B9F-8852-D3C2C1404349}|Utilities\\Utilities.csproj|c:\\users\\adunuri_machagiri\\desktop\\git\\sauce_demo\\sauce_demo\\automation_framework\\test_layer\\utilities\\webutilities\\webutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A4F597-FCF2-4B9F-8852-D3C2C1404349}|Utilities\\Utilities.csproj|solutionrelative:utilities\\webutilities\\webutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF13E6D-A396-4AB1-AE62-C921E664469D}|PageObjects\\PageObjects.csproj|c:\\users\\adunuri_machagiri\\desktop\\git\\sauce_demo\\sauce_demo\\automation_framework\\test_layer\\pageobjects\\login\\login_page_actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF13E6D-A396-4AB1-AE62-C921E664469D}|PageObjects\\PageObjects.csproj|solutionrelative:pageobjects\\login\\login_page_actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A4F597-FCF2-4B9F-8852-D3C2C1404349}|Utilities\\Utilities.csproj|c:\\users\\adunuri_machagiri\\desktop\\git\\sauce_demo\\sauce_demo\\automation_framework\\test_layer\\utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A4F597-FCF2-4B9F-8852-D3C2C1404349}|Utilities\\Utilities.csproj|solutionrelative:utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF13E6D-A396-4AB1-AE62-C921E664469D}|PageObjects\\PageObjects.csproj|c:\\users\\adunuri_machagiri\\desktop\\git\\sauce_demo\\sauce_demo\\automation_framework\\test_layer\\pageobjects\\login\\login_page_locator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF13E6D-A396-4AB1-AE62-C921E664469D}|PageObjects\\PageObjects.csproj|solutionrelative:pageobjects\\login\\login_page_locator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Utilities\\WebUtilities\\WebUtilities.cs",
+              "RelativeDocumentMoniker": "Utilities\\WebUtilities\\WebUtilities.cs",
+              "ToolTip": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Utilities\\WebUtilities\\WebUtilities.cs",
+              "RelativeToolTip": "Utilities\\WebUtilities\\WebUtilities.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:14:26.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_Page_Actions.cs",
+              "DocumentMoniker": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\PageObjects\\Login\\Login_Page_Actions.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Login\\Login_Page_Actions.cs",
+              "ToolTip": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\PageObjects\\Login\\Login_Page_Actions.cs",
+              "RelativeToolTip": "PageObjects\\Login\\Login_Page_Actions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:06:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Utilities\\Class1.cs",
+              "RelativeDocumentMoniker": "Utilities\\Class1.cs",
+              "ToolTip": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Utilities\\Class1.cs",
+              "RelativeToolTip": "Utilities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:10:25.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login_Page_Locator.cs",
+              "DocumentMoniker": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\PageObjects\\Login\\Login_Page_Locator.cs",
+              "RelativeDocumentMoniker": "PageObjects\\Login\\Login_Page_Locator.cs",
+              "ToolTip": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\PageObjects\\Login\\Login_Page_Locator.cs",
+              "RelativeToolTip": "PageObjects\\Login\\Login_Page_Locator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:06:35.93Z",
+              "EditorCaption": ""
             }
           ]
         }

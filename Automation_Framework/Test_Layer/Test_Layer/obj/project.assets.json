@@ -903,11 +903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Automation_Framework\\Test_Layer\\Test_Layer\\Test_Layer.csproj",
+      "projectUniqueName": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Test_Layer\\Test_Layer.csproj",
       "projectName": "Test_Layer",
-      "projectPath": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Automation_Framework\\Test_Layer\\Test_Layer\\Test_Layer.csproj",
+      "projectPath": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Test_Layer\\Test_Layer.csproj",
       "packagesPath": "C:\\Users\\adunuri_machagiri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Automation_Framework\\Test_Layer\\Test_Layer\\obj\\",
+      "outputPath": "C:\\Users\\adunuri_machagiri\\Desktop\\Git\\Sauce_demo\\Sauce_demo\\Automation_Framework\\Test_Layer\\Test_Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adunuri_machagiri\\AppData\\Roaming\\NuGet\\NuGet.Config",
